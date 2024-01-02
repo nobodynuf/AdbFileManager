@@ -1,3 +1,12 @@
+# Hey there, this is not original. Check the OG here 
+https://github.com/T0biasCZe/AdbFileManager
+
+I just edited the thing to have a new button to delete stuff in the device
+
+
+___
+Original README:
+
 # AdbFileManager
 Alternative for the MTP which is slow AF. It uses adb protocol to copy files which is lot faster
 
