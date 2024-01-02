@@ -32,7 +32,7 @@
       <HintPath>..\GongShell.dll</HintPath>
     </Reference>
     <Reference Include="VistaUIFramework">
-      <HintPath>..\..\..\frameworks\VistaUIFramework\VistaUIFramework.dll</HintPath>
+      <HintPath>..\VistaUIFramework.dll</HintPath>
     </Reference>
   </ItemGroup>
 
